@@ -2,3 +2,4 @@
 company/product/portfolio. This project showcases semantic HTML5, custom CSS, and ES6+
 JavaScript.
 Created by Robinson Chalas
+This README file has been edited
